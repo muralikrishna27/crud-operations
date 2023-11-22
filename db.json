@@ -1,0 +1,80 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "MuraliKrishna",
+      "username": "Murali123",
+      "email": "muralikrishna@gmail.com",
+      "phone": "8492129654",
+      "website": "muralireact.org"
+    },
+    {
+      "id": 2,
+      "name": "Suresh",
+      "username": "Suresh123",
+      "email": "Suresh@gmail.com",
+      "phone": "8492129654",
+      "website": "Sureshreact.org"
+    },
+    {
+      "id": 3,
+      "name": "Ramu",
+      "username": "ramu123",
+      "email": "ramu@gmail.com",
+      "phone": "8292129654",
+      "website": "ramureact.org"
+    },
+    {
+      "id": 4,
+      "name": "ranadheer",
+      "username": "ranadheer123",
+      "email": "ranadheer@gmail.com",
+      "phone": "9494129654",
+      "website": "ranadheerreact.org"
+    },
+    {
+      "id": 5,
+      "name": "Sahithi",
+      "username": "sahithi123",
+      "email": "sahithi@gmail.com",
+      "phone": "8592129654",
+      "website": "sahithireact.org"
+    },
+    {
+      "id": 7,
+      "name": "Mahesh",
+      "username": "mahesh123",
+      "email": "mahesh@gmail.com",
+      "phone": "9494789651",
+      "website": "maheshreact.org"
+    },
+    {
+      "id": 8,
+      "name": "Lakshmi",
+      "username": "lakshmi123",
+      "email": "lakshmi@gmail.com",
+      "phone": "7302129654",
+      "website": "lakshmireact.org"
+    },
+    {
+      "id": 9,
+      "name": "Madhuri",
+      "username": "madhuri123",
+      "email": "madhuri@gmail.com",
+      "phone": "7092129654",
+      "website": "madhurireact.org"
+    },
+    {
+      "name": "sandeep",
+      "email": "snadeep@gmail.com",
+      "phone": "9701411462",
+      "id": 13
+    },
+    {
+      "name": "Lohitha",
+      "email": "lohitha@gmail.com",
+      "phone": "9492129752",
+      "id": 14
+    }
+  ]
+}
